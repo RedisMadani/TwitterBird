@@ -1,8 +1,8 @@
-# TwitterStartupAnimationApp
+# Tumblr
 
 ![TwitterBird](https://github.com/RedisMadani/TwitterBird/assets/136177376/dfaafffb-ef65-43de-bcbb-0f4ab3124824)
 
-Welcome to TwitterStartupAnimationApp! This app is designed to showcase the startup animation of Twitter, specifically highlighting the zoom in and out feature with the iconic little bird. It mimics the animation using CALayer, mask, and CAKeyFrameAnimation, resulting in a simple yet captivating effect.
+Welcome to Tumblr! This app is designed to showcase the startup animation of Twitter, specifically highlighting the zoom in and out feature with the iconic little bird. It mimics the animation using CALayer, mask, and CAKeyFrameAnimation, resulting in a simple yet captivating effect.
 
 ## Features
 
@@ -12,20 +12,20 @@ Welcome to TwitterStartupAnimationApp! This app is designed to showcase the star
 
 ## Getting Started
 
-To run TwitterStartupAnimationApp on your device or simulator, follow these steps:
+To run Tumblr on your device or simulator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RedisMadani/TwitterStartupAnimationApp.git
+   git clone https://github.com/RedisMadani/Tumblr.git
    ```
 
-2. Open the Xcode project file `TwitterStartupAnimationApp.xcodeproj`.
+2. Open the Xcode project file `Tumblr.xcodeproj`.
 
 3. Select your desired destination (device or simulator) and click the "Run" button or press `Cmd+R` to build and launch the app.
 
 ## Usage
 
-Once you have launched TwitterStartupAnimationApp, you can experience the captivating startup animation:
+Once you have launched Tumblr, you can experience the captivating startup animation:
 
 - The app will automatically play the Twitter startup animation upon launch.
 - Observe the smooth zoom in and out effect of the little bird.
@@ -33,7 +33,7 @@ Once you have launched TwitterStartupAnimationApp, you can experience the captiv
 
 ## Troubleshooting
 
-If you encounter any issues while using TwitterStartupAnimationApp, please try the following troubleshooting steps:
+If you encounter any issues while using Tumblr, please try the following troubleshooting steps:
 
 - Ensure that you are running the latest version of Xcode.
 - Clean the project (`Shift+Cmd+K`) and rebuild it (`Cmd+B`).
@@ -42,9 +42,9 @@ If you encounter any issues while using TwitterStartupAnimationApp, please try t
 
 ## Contributing
 
-We welcome contributions to TwitterStartupAnimationApp! If you have any ideas, bug fixes, or new features to propose, please follow these steps:
+We welcome contributions to Tumblr! If you have any ideas, bug fixes, or new features to propose, please follow these steps:
 
-1. Fork the TwitterStartupAnimationApp repository.
+1. Fork the Tumblr repository.
 2. Create a new branch based on your changes:
    ```bash
    git checkout -b my-new-feature
@@ -63,8 +63,8 @@ Please ensure that your code follows the existing style conventions and includes
 
 ## License
 
-TwitterStartupAnimationApp is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
+Tumblr is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
 
-Enjoy exploring the startup animation of Twitter in TwitterStartupAnimationApp! If you have any questions or need further assistance, feel free to reach out to our support team at support@twitterstartupanimationapp.com.
+Enjoy exploring the startup animation of Twitter in Tumblr! If you have any questions or need further assistance, feel free to reach out to our support team at support@Tumblr.com.
 
 Happy animating!
