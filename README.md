@@ -1,5 +1,6 @@
 # TwitterStartupAnimationApp
 
+![TwitterBird](https://github.com/RedisMadani/TwitterBird/assets/136177376/dfaafffb-ef65-43de-bcbb-0f4ab3124824)
 
 Welcome to TwitterStartupAnimationApp! This app is designed to showcase the startup animation of Twitter, specifically highlighting the zoom in and out feature with the iconic little bird. It mimics the animation using CALayer, mask, and CAKeyFrameAnimation, resulting in a simple yet captivating effect.
 
