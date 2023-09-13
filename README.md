@@ -65,6 +65,4 @@ Please ensure that your code follows the existing style conventions and includes
 
 Tumblr is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
 
-Enjoy exploring the startup animation of Twitter in Tumblr! If you have any questions or need further assistance, feel free to reach out to our support team at support@Tumblr.com.
-
 Happy animating!
